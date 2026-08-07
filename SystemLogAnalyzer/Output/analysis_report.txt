@@ -1,0 +1,22 @@
+SYSTEM LOG ANALYSIS REPORT
+========================================
+Generated: 07.08.2026 14:38:00
+
+RECORD SUMMARY
+----------------------------------------
+Total Valid Records: 28
+Information Records: 14
+Warning Records: 6
+Error Records: 8
+Invalid Records: 4
+Error Rate: 28.57%
+
+ERROR ANALYSIS
+----------------------------------------
+Most Frequent Error: Database connection failed
+Busiest Error Hour: 09:00 - 09:59 (3 errors)
+
+TIME RANGE
+----------------------------------------
+First Record: 03.08.2026 08:00:10
+Last Record: 04.08.2026 10:20:54

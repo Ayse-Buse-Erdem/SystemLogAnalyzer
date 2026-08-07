@@ -1,0 +1,21 @@
+﻿2026-08-03 08:00:10 INFO Application started
+2026-08-03 08:05:22 INFO User admin logged in
+2026-08-03 08:12:35 WARNING Database response is slow
+2026-08-03 08:18:41 ERROR Database connection failed
+2026-08-03 08:20:05 INFO Database connection restored
+2026-08-03 08:30:17 INFO Production data loaded
+2026-08-03 08:45:29 WARNING Memory usage is high
+2026-08-03 09:02:13 ERROR File could not be opened
+2026-08-03 09:15:46 INFO Report generated successfully
+2026-08-03 09:25:38 ERROR Database connection failed
+2026-08-03 09:40:51 WARNING Disk space is low
+2026-08-03 10:05:04 INFO User admin logged out
+2026-08-03 10:15:27 ERROR Authentication failed
+2026-08-03 10:30:19 INFO Backup process started
+2026-08-03 10:45:33 INFO Backup completed successfully
+2026-08-03 11:00:42 WARNING Network latency is high
+2026-08-03 11:20:56 ERROR Database connection failed
+2026-08-03 11:35:11 INFO Connection restored
+Invalid log entry
+2026-08-03 12:00:00 UNKNOWN Unexpected event
+2026-08-03 ERROR

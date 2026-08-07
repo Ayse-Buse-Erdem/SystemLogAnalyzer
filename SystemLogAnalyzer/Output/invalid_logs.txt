@@ -1,0 +1,4 @@
+[server_logs.log] Invalid server log record
+[system_logs.txt] Invalid log entry
+[system_logs.txt] 2026-08-03 12:00:00 UNKNOWN Unexpected event
+[system_logs.txt] 2026-08-03 ERROR
